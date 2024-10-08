@@ -2,7 +2,7 @@
   "name": "phosphor-icon-snippets",
   "displayName": "Phosphor Icon Snippets",
   "description": "HTML snippets for Phosphor Icons",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.94.0"
   },
