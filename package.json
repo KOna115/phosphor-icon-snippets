@@ -14,6 +14,7 @@
     "name": "kona115",
     "email": "kona.minczer@innomit.com"
   },
+  "license": "MIT",
   "repository": {
     "type": "github",
     "url": "https://github.com/KOna115/phosphor-icon-snippets"
