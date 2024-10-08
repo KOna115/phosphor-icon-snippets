@@ -19,6 +19,7 @@
     "type": "github",
     "url": "https://github.com/KOna115/phosphor-icon-snippets"
   },
+  "icon": "phosphor-logo.png",
   "contributes": {
     "snippets": [
       {
